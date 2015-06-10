@@ -1,0 +1,5 @@
+[rhel]
+name=RHEL7.1 packages
+baseurl=http://download.bne.redhat.com/released/RHEL-7/7.1/Server/x86_64/os/repodata/
+enabled=1
+gpgcheck=0
