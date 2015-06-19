@@ -1,0 +1,5 @@
+[rhel]
+name=RHEL7.1 packages
+baseurl=http://download.bne.redhat.com/released/RHEL-6/6.6/Server/x86_64/os/
+enabled=1
+gpgcheck=0
