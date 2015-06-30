@@ -1,0 +1,6 @@
+[epel]
+name=Extra Packages for Enterprise Linux 6 - $basearch
+baseurl=http://fedora.mirror.serversaustralia.com.au/epel/6/$basearch
+enabled=1
+gpgcheck=0
+gpgkey=http://fedora.mirror.serveraustralia.com.au/epel/RPM-GPG-KEY-EPEL
